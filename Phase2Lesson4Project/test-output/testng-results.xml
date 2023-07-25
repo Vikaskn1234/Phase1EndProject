@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-25T14:40:53 IST" name="Default suite" finished-at="2023-07-25T14:40:57 IST" duration-ms="3398">
+    <groups>
+    </groups>
+    <test started-at="2023-07-25T14:40:53 IST" name="Default test" finished-at="2023-07-25T14:40:57 IST" duration-ms="3398">
+      <class name="in.simplilearn.testsripts.LoginPage">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:in.simplilearn.testsripts.LoginPage@7526515b]" started-at="2023-07-25T14:40:53 IST" name="LaunchApplication" finished-at="2023-07-25T14:40:56 IST" duration-ms="2358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="verifypage()[pri:0, instance:in.simplilearn.testsripts.LoginPage@7526515b]" started-at="2023-07-25T14:40:56 IST" name="verifypage" finished-at="2023-07-25T14:40:57 IST" duration-ms="792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifypage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:in.simplilearn.testsripts.LoginPage@7526515b]" started-at="2023-07-25T14:40:57 IST" name="closeBrowser" finished-at="2023-07-25T14:40:57 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- in.simplilearn.testsripts.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
